@@ -304,7 +304,7 @@
             connect() {
                 this.updateStatus("Connecting...", false);
 
-                this.ws = new WebSocket("ws://localhost:8000");
+                this.ws = new WebSocket('wss://your-app.onrender.com');
 
                 this.ws.onopen = () => {
                     this.isConnected = true;
