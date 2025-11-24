@@ -46,7 +46,7 @@ class AudioConfig:
 class ServerConfig:
     """WebSocket Server Configuration"""
     host: str = "0.0.0.0"
-    port: int = 8000
+    port = int(os.environ.get("PORT", 8000))
     max_connections: int = 100
     
 
