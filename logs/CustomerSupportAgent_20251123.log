@@ -1,0 +1,171 @@
+2025-11-23 20:23:12 | [32mINFO[0m | CustomerSupportAgent | info:94 | No knowledge base found, creating sample...
+2025-11-23 20:23:12 | [32mINFO[0m | CustomerSupportAgent | info:94 | Created sample knowledge base
+2025-11-23 20:23:12 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing RAG Engine...
+2025-11-23 20:23:12 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine initialized (in-memory)
+2025-11-23 20:23:12 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing Simple RAG Engine...
+2025-11-23 20:23:13 | [32mINFO[0m | CustomerSupportAgent | info:94 | Ollama connection successful
+2025-11-23 20:23:13 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine ready
+2025-11-23 20:23:13 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loading 1 knowledge base files...
+2025-11-23 20:23:13 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loaded sample_faq.txt | chunks=3
+2025-11-23 20:23:13 | [32mINFO[0m | CustomerSupportAgent | info:94 | Document ingestion complete | successful=1 | total_chunks=3
+2025-11-23 20:23:13 | [32mINFO[0m | CustomerSupportAgent | info:94 | ✅ Loaded 1 files, 3 chunks
+2025-11-23 20:23:13 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | Audio libraries not installed. Voice features disabled.
+2025-11-23 20:23:13 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | To enable: pip install openai-whisper gtts
+2025-11-23 20:23:13 | [32mINFO[0m | CustomerSupportAgent | info:94 | Audio Handler: Disabled (libraries not installed)
+2025-11-23 20:23:13 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket Server initialized
+2025-11-23 20:23:13 | [32mINFO[0m | CustomerSupportAgent | info:94 | Starting WebSocket server | host=0.0.0.0 | port=8000
+2025-11-23 20:23:13 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket server running | host=0.0.0.0 | port=8000
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing RAG Engine...
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine initialized (in-memory)
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing Simple RAG Engine...
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | Ollama connection successful
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine ready
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loading 1 knowledge base files...
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loaded sample_faq.txt | chunks=3
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | Document ingestion complete | successful=1 | total_chunks=3
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | ✅ Loaded 1 files, 3 chunks
+2025-11-23 20:24:06 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | Audio libraries not installed. Voice features disabled.
+2025-11-23 20:24:06 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | To enable: pip install openai-whisper gtts
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | Audio Handler: Disabled (libraries not installed)
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket Server initialized
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | Starting WebSocket server | host=0.0.0.0 | port=8000
+2025-11-23 20:24:06 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket server running | host=0.0.0.0 | port=8000
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing RAG Engine...
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine initialized (in-memory)
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing Simple RAG Engine...
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | Ollama connection successful
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine ready
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loading 1 knowledge base files...
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loaded sample_faq.txt | chunks=3
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | Document ingestion complete | successful=1 | total_chunks=3
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | ✅ Loaded 1 files, 3 chunks
+2025-11-23 20:36:01 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | Audio libraries not installed. Voice features disabled.
+2025-11-23 20:36:01 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | To enable: pip install openai-whisper gtts
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | Audio Handler: Disabled (libraries not installed)
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket Server initialized
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | Starting WebSocket server | host=0.0.0.0 | port=8000
+2025-11-23 20:36:01 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket server running | host=0.0.0.0 | port=8000
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing RAG Engine...
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine initialized (in-memory)
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing Simple RAG Engine...
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Ollama connection successful
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine ready
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loading 1 knowledge base files...
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loaded sample_faq.txt | chunks=3
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Document ingestion complete | successful=1 | total_chunks=3
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | ✅ Loaded 1 files, 3 chunks
+2025-11-23 20:44:03 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | Audio libraries not installed. Voice features disabled.
+2025-11-23 20:44:03 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | To enable: pip install openai-whisper gtts
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Audio Handler: Disabled (libraries not installed)
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket Server initialized
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Starting WebSocket server | host=0.0.0.0 | port=8000
+2025-11-23 20:44:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket server running | host=0.0.0.0 | port=8000
+2025-11-23 20:44:05 | [32mINFO[0m | CustomerSupportAgent | info:94 | New connection established | session_id=0c1b9dd5-a83b-42a8-b79d-a83492b90c7b | total_connections=1
+2025-11-23 20:44:23 | [32mINFO[0m | CustomerSupportAgent | info:94 | New connection established | session_id=7e97c4c9-3b27-4f07-a82b-f8c492d93dfd | total_connections=2
+2025-11-23 20:44:39 | [32mINFO[0m | CustomerSupportAgent | info:94 | User interaction logged | session_id=7e97c4c9-3b27-4f07-a82b-f8c492d93dfd | language=en | processing_time=11139.20ms
+2025-11-23 20:48:40 | [32mINFO[0m | CustomerSupportAgent | info:94 | Connection closed | session_id=7e97c4c9-3b27-4f07-a82b-f8c492d93dfd | message_count=1 | total_connections=1
+2025-11-23 20:48:42 | [32mINFO[0m | CustomerSupportAgent | info:94 | Connection closed | session_id=0c1b9dd5-a83b-42a8-b79d-a83492b90c7b | message_count=0 | total_connections=0
+2025-11-23 20:48:53 | [32mINFO[0m | CustomerSupportAgent | info:94 | New connection established | session_id=65872ef9-e037-4bc7-b8d3-c6b87ccf86f1 | total_connections=1
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing RAG Engine...
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine initialized (in-memory)
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing Simple RAG Engine...
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | Ollama connection successful
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine ready
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loading 1 knowledge base files...
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loaded sample_faq.txt | chunks=3
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | Document ingestion complete | successful=1 | total_chunks=3
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | ✅ Loaded 1 files, 3 chunks
+2025-11-23 20:54:44 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | Audio libraries not installed. Voice features disabled.
+2025-11-23 20:54:44 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | To enable: pip install openai-whisper gtts
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | Audio Handler: Disabled (libraries not installed)
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket Server initialized
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | Starting WebSocket server | host=0.0.0.0 | port=8000
+2025-11-23 20:54:44 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket server running | host=0.0.0.0 | port=8000
+2025-11-23 20:55:24 | [32mINFO[0m | CustomerSupportAgent | info:94 | New connection established | session_id=5adf8c05-eb5e-4934-8296-5a354759e37c | total_connections=1
+2025-11-23 21:05:22 | [32mINFO[0m | CustomerSupportAgent | info:94 | Connection closed | session_id=5adf8c05-eb5e-4934-8296-5a354759e37c | message_count=0 | total_connections=0
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing RAG Engine...
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine initialized (in-memory)
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing Simple RAG Engine...
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | Ollama connection successful
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine ready
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loading 1 knowledge base files...
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loaded sample_faq.txt | chunks=3
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | Document ingestion complete | successful=1 | total_chunks=3
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | ✅ Loaded 1 files, 3 chunks
+2025-11-23 21:05:28 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | Audio libraries not installed. Voice features disabled.
+2025-11-23 21:05:28 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | To enable: pip install openai-whisper gtts
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | Audio Handler: Disabled (libraries not installed)
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket Server initialized
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | Starting WebSocket server | host=0.0.0.0 | port=8000
+2025-11-23 21:05:28 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket server running | host=0.0.0.0 | port=8000
+2025-11-23 21:05:31 | [32mINFO[0m | CustomerSupportAgent | info:94 | New connection established | session_id=ba37e674-0446-4497-8d68-868c1dcb4b7d | total_connections=1
+2025-11-23 21:05:32 | [32mINFO[0m | CustomerSupportAgent | info:94 | Connection closed | session_id=ba37e674-0446-4497-8d68-868c1dcb4b7d | message_count=0 | total_connections=0
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing RAG Engine...
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine initialized (in-memory)
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing Simple RAG Engine...
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | Ollama connection successful
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine ready
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loading 1 knowledge base files...
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loaded sample_faq.txt | chunks=3
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | Document ingestion complete | successful=1 | total_chunks=3
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | ✅ Loaded 1 files, 3 chunks
+2025-11-23 21:05:45 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | Audio libraries not installed. Voice features disabled.
+2025-11-23 21:05:45 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | To enable: pip install openai-whisper gtts
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | Audio Handler: Disabled (libraries not installed)
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket Server initialized
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | Starting WebSocket server | host=0.0.0.0 | port=8000
+2025-11-23 21:05:45 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket server running | host=0.0.0.0 | port=8000
+2025-11-23 21:05:52 | [32mINFO[0m | CustomerSupportAgent | info:94 | New connection established | session_id=c9db5453-d850-4f83-8145-fa3c485aed85 | total_connections=1
+2025-11-23 21:14:20 | [32mINFO[0m | CustomerSupportAgent | info:94 | User interaction logged | session_id=c9db5453-d850-4f83-8145-fa3c485aed85 | language=en | processing_time=7694.77ms
+2025-11-23 21:14:33 | [32mINFO[0m | CustomerSupportAgent | info:94 | User interaction logged | session_id=c9db5453-d850-4f83-8145-fa3c485aed85 | language=en | processing_time=3084.67ms
+2025-11-23 21:14:48 | [32mINFO[0m | CustomerSupportAgent | info:94 | User interaction logged | session_id=c9db5453-d850-4f83-8145-fa3c485aed85 | language=en | processing_time=1931.94ms
+2025-11-23 21:16:02 | [32mINFO[0m | CustomerSupportAgent | info:94 | Connection closed | session_id=c9db5453-d850-4f83-8145-fa3c485aed85 | message_count=3 | total_connections=0
+2025-11-23 21:18:14 | [32mINFO[0m | CustomerSupportAgent | info:94 | New connection established | session_id=b8dc6859-9a3a-460b-bb7d-ed78bf69fce8 | total_connections=1
+2025-11-23 21:18:23 | [32mINFO[0m | CustomerSupportAgent | info:94 | Connection closed | session_id=b8dc6859-9a3a-460b-bb7d-ed78bf69fce8 | message_count=0 | total_connections=0
+2025-11-23 23:54:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing RAG Engine...
+2025-11-23 23:54:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine initialized (in-memory)
+2025-11-23 23:54:03 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing Simple RAG Engine...
+2025-11-23 23:54:05 | [31mERROR[0m | CustomerSupportAgent | error:105 | Ollama not running. Start it with: ollama serve | Exception: ConnectionError: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+Traceback (most recent call last):
+  File "D:\Projects\Real-Time Customer Support Agent\rag_engine_simple.py", line 52, in initialize
+    ollama.list()
+    ~~~~~~~~~~~^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python314\Lib\site-packages\ollama\_client.py", line 604, in list
+    return self._request(
+           ~~~~~~~~~~~~~^
+      ListResponse,
+      ^^^^^^^^^^^^^
+      'GET',
+      ^^^^^^
+      '/api/tags',
+      ^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python314\Lib\site-packages\ollama\_client.py", line 189, in _request
+    return cls(**self._request_raw(*args, **kwargs).json())
+                 ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lenovo\AppData\Local\Programs\Python\Python314\Lib\site-packages\ollama\_client.py", line 135, in _request_raw
+    raise ConnectionError(CONNECTION_ERROR_MESSAGE) from None
+ConnectionError: Failed to connect to Ollama. Please check that Ollama is downloaded, running and accessible. https://ollama.com/download
+2025-11-23 23:54:05 | [31mERROR[0m | CustomerSupportAgent | error:105 | RAG Engine initialization failed
+2025-11-23 23:54:05 | [31mERROR[0m | CustomerSupportAgent | error:105 | Make sure Ollama is running!
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing RAG Engine...
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine initialized (in-memory)
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | Initializing Simple RAG Engine...
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | Ollama connection successful
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | Simple RAG Engine ready
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loading 1 knowledge base files...
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | Loaded sample_faq.txt | chunks=3
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | Document ingestion complete | successful=1 | total_chunks=3
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | ✅ Loaded 1 files, 3 chunks
+2025-11-23 23:56:26 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | Audio libraries not installed. Voice features disabled.
+2025-11-23 23:56:26 | [33mWARNING[0m | CustomerSupportAgent | warning:98 | To enable: pip install openai-whisper gtts
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | Audio Handler: Disabled (libraries not installed)
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket Server initialized
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | Starting WebSocket server | host=0.0.0.0 | port=8000
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | WebSocket server running | host=0.0.0.0 | port=8000
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | New connection established | session_id=92ee1085-1ae8-4dc9-a5ec-8af0b8afe8b7 | total_connections=1
+2025-11-23 23:56:26 | [32mINFO[0m | CustomerSupportAgent | info:94 | New connection established | session_id=2002cc9f-4bfd-46e8-ac6c-4dc2ef26a74c | total_connections=2
+2025-11-23 23:57:39 | [32mINFO[0m | CustomerSupportAgent | info:94 | User interaction logged | session_id=2002cc9f-4bfd-46e8-ac6c-4dc2ef26a74c | language=en | processing_time=8871.19ms
+2025-11-23 23:57:52 | [32mINFO[0m | CustomerSupportAgent | info:94 | User interaction logged | session_id=2002cc9f-4bfd-46e8-ac6c-4dc2ef26a74c | language=en | processing_time=2447.17ms
+2025-11-23 23:58:18 | [32mINFO[0m | CustomerSupportAgent | info:94 | User interaction logged | session_id=2002cc9f-4bfd-46e8-ac6c-4dc2ef26a74c | language=en | processing_time=2070.67ms
