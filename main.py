@@ -1,22 +1,12 @@
-import os
 import asyncio
 import sys
-import threading
 from pathlib import Path
 
-from flask import Flask
 from config import config
 from logger import logger
 from rag_engine_simple import SimpleRAGEngine  
 from audio_handler import AudioHandler
 from websocket_server import SupportAgentServer
-
-
-app_http = Flask(__name__)
-
-@app_http.route("/")
-def home():
-    return "Customer Support Agent Running"
 
 
 class CustomerSupportAgent:
@@ -53,9 +43,7 @@ Our live agents are available Monday-Friday 9 AM - 6 PM EST.
             self.logger.info("Initializing RAG Engine...")
             self.rag = SimpleRAGEngine()
             
-            if not self.rag.initialize():
-                self.logger.error("RAG Engine initialization failed")
-                return False
+            self.rag.initialize()
             
             if kb_files:
                 self.logger.info(f"Loading {len(kb_files)} knowledge base files...")
@@ -84,13 +72,8 @@ Our live agents are available Monday-Friday 9 AM - 6 PM EST.
             sys.exit(1)
 
 
-def run_http():
-    app_http.run(host="0.0.0.0", port=int(os.environ.get("PORT", 10000)))
-
-
 def main():
     try:
-        threading.Thread(target=run_http).start()
         app = CustomerSupportAgent()
         asyncio.run(app.run())
     except Exception as e:

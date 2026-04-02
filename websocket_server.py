@@ -358,17 +358,21 @@ class SupportAgentServer:
     
     async def start(self):
         """Start WebSocket server"""
+        import os
+
+        port = int(os.environ.get("PORT", 10000))
+
         self.logger.info("Starting WebSocket server",
-                        host=self.config.server.host,
-                        port=self.config.server.port)
-        
+                        host="0.0.0.0",
+                        port=port)
+
         async with websockets.serve(
             self.handle_connection,
-            self.config.server.host,
-            self.config.server.port,
-            max_size=10 * 1024 * 1024  # 10MB max message size
+            "0.0.0.0",
+            port,
+            max_size=10 * 1024 * 1024
         ):
             self.logger.info("WebSocket server running",
-                           host=self.config.server.host,
-                           port=self.config.server.port)
-            await asyncio.Future()  # Run forever
+                            host="0.0.0.0",
+                            port=port)
+            await asyncio.Future()
